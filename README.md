@@ -9,4 +9,4 @@ Technologies Used
 HTML CSS Javascript SwiperJS ScrollRevealJS TypedJS
 
 Contact
-For more information, please contact alfiyasama07@gmail.com
+For more information, please contact adarshgowda618@@gmail.com
